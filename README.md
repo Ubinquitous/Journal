@@ -17,4 +17,6 @@
 
 [5월 30일 html/css 수업](https://github.com/Ubinquitous/Journal/blob/master/22-05-29.md)
 
+[5월 31일 5월을 마치며](https://github.com/Ubinquitous/Journal/blob/master/22-05-31.md)
+
 
