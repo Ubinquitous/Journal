@@ -19,4 +19,4 @@
 
 [5월 31일 5월을 마치며](https://github.com/Ubinquitous/Journal/blob/master/22-05-31.md)
 
-
+### June, 2022
