@@ -20,3 +20,5 @@
 [5월 31일 5월을 마치며](https://github.com/Ubinquitous/Journal/blob/master/22-05-31.md)
 
 ### June, 2022
+
+[6월 1일 6월을 시작하며](https://github.com/Ubinquitous/Journal/blob/master/22-05-31.md)
