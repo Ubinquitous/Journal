@@ -24,3 +24,5 @@
 [6월 1일 6월을 시작하며](https://github.com/Ubinquitous/Journal/blob/master/22-06-01.md)
 
 [6월 3일 자아성찰, 그리고 반성](https://github.com/Ubinquitous/Journal/blob/master/22-06-03.md)
+
+[6월 4일 아두이노 과제 발표 준비](https://github.com/Ubinquitous/Journal/blob/master/22-06-04.md)
