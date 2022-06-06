@@ -26,3 +26,5 @@
 [6월 3일 자아성찰, 그리고 반성](https://github.com/Ubinquitous/Journal/blob/master/22-06-03.md)
 
 [6월 4일 아두이노 과제 발표 준비](https://github.com/Ubinquitous/Journal/blob/master/22-06-04.md)
+
+[6월 6일 코딩테스트 전날 준비](https://github.com/Ubinquitous/Journal/blob/master/22-06-06.md)
