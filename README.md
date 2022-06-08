@@ -29,4 +29,4 @@
 
 [6월 6일 코딩테스트 전날 준비](https://github.com/Ubinquitous/Journal/blob/master/22-06-06.md)
 
-[6월 8일 무제](https://github.com/Ubinquitous/Journal/blob/master/22-06-08.md)
+[6월 8일 2차 코딩 테스트](https://github.com/Ubinquitous/Journal/blob/master/22-06-08.md)
