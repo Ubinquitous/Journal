@@ -32,3 +32,5 @@
 [6월 8일 2차 코딩 테스트](https://github.com/Ubinquitous/Journal/blob/master/22-06-08.md)
 
 [6월 9일 아두이노 회로 완성!](https://github.com/Ubinquitous/Journal/blob/master/22-06-09.md)
+
+[6월 13일 AI 윤리에 대한 뉴스](https://github.com/Ubinquitous/Journal/blob/master/22-06-13.md)
