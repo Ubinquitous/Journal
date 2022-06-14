@@ -34,3 +34,7 @@
 [6월 9일 아두이노 회로 완성!](https://github.com/Ubinquitous/Journal/blob/master/22-06-09.md)
 
 [6월 13일 AI 윤리에 대한 뉴스](https://github.com/Ubinquitous/Journal/blob/master/22-06-13.md)
+
+[6월 13일 시간 활용에 대한 고찰](https://github.com/Ubinquitous/Journal/blob/master/22-06-14.md)
+
+
