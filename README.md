@@ -37,4 +37,6 @@
 
 [6월 14일 시간 활용에 대한 고찰](https://github.com/Ubinquitous/Journal/blob/master/22-06-14.md)
 
+[6월 16일 수학 문제 풀이..](https://github.com/Ubinquitous/Journal/blob/master/22-06-16.md)
+
 
