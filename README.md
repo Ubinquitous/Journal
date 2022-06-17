@@ -39,4 +39,6 @@
 
 [6월 16일 수학 문제 풀이..](https://github.com/Ubinquitous/Journal/blob/master/22-06-16.md)
 
+[6월 17일 11번가 강의](https://github.com/Ubinquitous/Journal/blob/master/22-06-17.md)
+
 
