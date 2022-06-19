@@ -43,4 +43,6 @@
 
 [6월 18일 비몽사몽한 하루](https://github.com/Ubinquitous/Journal/blob/master/22-06-18.md)
 
+[6월 18일 시험 기간](https://github.com/Ubinquitous/Journal/blob/master/22-06-19.md)
+
 
