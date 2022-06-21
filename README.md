@@ -47,4 +47,4 @@
 
 [6월 20일 컴퓨터구조 조별과제 발표](https://github.com/Ubinquitous/Journal/blob/master/22-06-20.md)
 
-
+[6월 21일 졸린 날..](https://github.com/Ubinquitous/Journal/blob/master/22-06-21.md)
