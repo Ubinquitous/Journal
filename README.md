@@ -50,3 +50,5 @@
 [6월 21일 졸린 날..](https://github.com/Ubinquitous/Journal/blob/master/22-06-21.md)
 
 [6월 22일 그 때 그 느낌](https://github.com/Ubinquitous/Journal/blob/master/22-06-22.md)
+
+[6월 23일 학습지 정리](https://github.com/Ubinquitous/Journal/blob/master/22-06-23.md)
