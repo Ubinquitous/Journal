@@ -52,3 +52,5 @@
 [6월 22일 그 때 그 느낌](https://github.com/Ubinquitous/Journal/blob/master/22-06-22.md)
 
 [6월 23일 학습지 정리](https://github.com/Ubinquitous/Journal/blob/master/22-06-23.md)
+
+[6월 24일 과제, 프로젝트, 자기계발](https://github.com/Ubinquitous/Journal/blob/master/22-06-24.md)
