@@ -58,3 +58,5 @@
 [6월 25일 프로젝트 완성](https://github.com/Ubinquitous/Journal/blob/master/22-06-25.md)
 
 [6월 26일 자바스크립트 강의 다짐](https://github.com/Ubinquitous/Journal/blob/master/22-06-26.md)
+
+[6월 27일 기말고사 벼락치기 준비](https://github.com/Ubinquitous/Journal/blob/master/22-06-27.md)
