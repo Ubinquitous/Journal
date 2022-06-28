@@ -61,4 +61,4 @@
 
 [6월 27일 기말고사 벼락치기 준비](https://github.com/Ubinquitous/Journal/blob/master/22-06-27.md)
 
-[6월 28일 form태그를 이용한 JS](https://github.com/Ubinquitous/Journal/blob/master/22-06-28.md)
+[6월 28일 form태그를 이용한 자바스크립트](https://github.com/Ubinquitous/Journal/blob/master/22-06-28.md)
