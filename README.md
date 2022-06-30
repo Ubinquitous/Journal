@@ -65,4 +65,4 @@
 
 [6월 29일 클론코딩 막바지](https://github.com/Ubinquitous/Journal/blob/master/22-06-29.md)
 
-[6월 29일 완성!](https://github.com/Ubinquitous/Journal/blob/master/22-06-30.md)
+[6월 30일 완성!](https://github.com/Ubinquitous/Journal/blob/master/22-06-30.md)
