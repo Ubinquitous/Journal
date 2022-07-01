@@ -21,7 +21,7 @@
 
 ### June, 2022
 
-[6월 1일 6월을 시작하며](https://github.com/Ubinquitous/Journal/blob/master/22-06-01.md)
+[6월 1일 새로운 달을 시작하며](https://github.com/Ubinquitous/Journal/blob/master/22-06-01.md)
 
 [6월 3일 자아성찰, 그리고 반성](https://github.com/Ubinquitous/Journal/blob/master/22-06-03.md)
 
@@ -66,3 +66,7 @@
 [6월 29일 클론코딩 막바지](https://github.com/Ubinquitous/Journal/blob/master/22-06-29.md)
 
 [6월 30일 완성!](https://github.com/Ubinquitous/Journal/blob/master/22-06-30.md)
+
+### July, 2022
+
+[7월 1일 새로운 달을 시작하며](https://github.com/Ubinquitous/Journal/blob/master/22-07-01.md)
