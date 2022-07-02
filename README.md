@@ -70,3 +70,5 @@
 ### July, 2022
 
 [7월 1일 새로운 달을 시작하며](https://github.com/Ubinquitous/Journal/blob/master/22-07-01.md)
+
+[7월 2일 약간의 휴식](https://github.com/Ubinquitous/Journal/blob/master/22-07-02.md)
