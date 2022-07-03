@@ -1,4 +1,5 @@
 # My Journal!
+## Journal for portfolio. Don't have too private content.
 
 ### May, 2022
 [5월 18일 포인터 수업 (첫 일기)](https://github.com/Ubinquitous/Journal/blob/master/22-05-18.md)
