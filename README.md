@@ -76,4 +76,6 @@
 
 [7월 3일 그림판 완성](https://github.com/Ubinquitous/Journal/blob/master/22-07-03.md)
 
-[7월 3일 타입스크립트 강의](https://github.com/Ubinquitous/Journal/blob/master/22-07-04.md)
+[7월 4일 타입스크립트 강의](https://github.com/Ubinquitous/Journal/blob/master/22-07-04.md)
+
+[7월 5일 오류 수정 완료!!](https://github.com/Ubinquitous/Journal/blob/master/22-07-05.md)
