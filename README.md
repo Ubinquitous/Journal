@@ -79,3 +79,5 @@
 [7월 4일 타입스크립트 강의](https://github.com/Ubinquitous/Journal/blob/master/22-07-04.md)
 
 [7월 5일 오류 수정 완료!!](https://github.com/Ubinquitous/Journal/blob/master/22-07-05.md)
+
+[7월 6일 현대모비스 소프트웨어 뉴스](https://github.com/Ubinquitous/Journal/blob/master/22-07-06.md)
