@@ -81,3 +81,5 @@
 [7월 5일 오류 수정 완료!!](https://github.com/Ubinquitous/Journal/blob/master/22-07-05.md)
 
 [7월 6일 현대모비스 소프트웨어 뉴스](https://github.com/Ubinquitous/Journal/blob/master/22-07-06.md)
+
+[7월 7일 2학년 전공동아리 중간발표회](https://github.com/Ubinquitous/Journal/blob/master/22-07-07.md)
