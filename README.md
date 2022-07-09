@@ -85,3 +85,5 @@
 [7월 7일 2학년 전공동아리 중간발표회](https://github.com/Ubinquitous/Journal/blob/master/22-07-07.md)
 
 [7월 8일 생각지못한 코드의 문제점들](https://github.com/Ubinquitous/Journal/blob/master/22-07-08.md)
+
+[7월 9일 의지](https://github.com/Ubinquitous/Journal/blob/master/22-07-09.md)
