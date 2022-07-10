@@ -87,3 +87,5 @@
 [7월 8일 생각지못한 코드의 문제점들](https://github.com/Ubinquitous/Journal/blob/master/22-07-08.md)
 
 [7월 9일 의지](https://github.com/Ubinquitous/Journal/blob/master/22-07-09.md)
+
+[7월 10일 HIGHLOW 완성, 그리고 반성](https://github.com/Ubinquitous/Journal/blob/master/22-07-10.md)
