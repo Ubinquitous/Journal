@@ -89,3 +89,5 @@
 [7월 9일 의지](https://github.com/Ubinquitous/Journal/blob/master/22-07-09.md)
 
 [7월 10일 HIGHLOW 완성, 그리고 반성](https://github.com/Ubinquitous/Journal/blob/master/22-07-10.md)
+
+[7월 11일 전공캠프 - Figma, AI](https://github.com/Ubinquitous/Journal/blob/master/22-07-11.md)
