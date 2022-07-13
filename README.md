@@ -94,4 +94,4 @@
 
 [7월 12일 전공캠프 - 사업 계획서 작성, DB 모델링](https://github.com/Ubinquitous/Journal/blob/master/22-07-12.md)
 
-[7월 12일 전공캠프 - 해커톤](https://github.com/Ubinquitous/Journal/blob/master/22-07-13.md)
+[7월 13일 전공캠프 - 해커톤](https://github.com/Ubinquitous/Journal/blob/master/22-07-13.md)
