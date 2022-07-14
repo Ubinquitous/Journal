@@ -96,4 +96,4 @@
 
 [7월 13일 전공캠프 - 해커톤](https://github.com/Ubinquitous/Journal/blob/master/22-07-13.md)
 
-[7월 13일 전공캠프 - 해커톤 마지막 날](https://github.com/Ubinquitous/Journal/blob/master/22-07-14.md)
+[7월 14일 전공캠프 - 해커톤 마지막 날](https://github.com/Ubinquitous/Journal/blob/master/22-07-14.md)
