@@ -99,3 +99,5 @@
 [7월 14일 전공캠프 - 해커톤 마지막 날](https://github.com/Ubinquitous/Journal/blob/master/22-07-14.md)
 
 [7월 15일 전공캠프 - 해커톤 시상, 방학식](https://github.com/Ubinquitous/Journal/blob/master/22-07-15.md)
+
+[7월 15일 여름방학 시작](https://github.com/Ubinquitous/Journal/blob/master/22-07-18.md)
