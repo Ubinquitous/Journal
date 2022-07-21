@@ -105,3 +105,5 @@
 [7월 19일 여름방학 공부 첫 날, 그리고 타입스크립트](https://github.com/Ubinquitous/Journal/blob/master/22-07-19.md)
 
 [7월 20일 여름방학 공부 D+2, 배열과 모듈, 정규화와 반정규화](https://github.com/Ubinquitous/Journal/blob/master/22-07-20.md)
+
+[7월 21일 여름방학 공부 D+3, 인터페이스, 구조체, DDL, JSX](https://github.com/Ubinquitous/Journal/blob/master/22-07-21.md)
