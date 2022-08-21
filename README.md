@@ -108,4 +108,6 @@
 
 [7월 21일 여름방학 공부 D+3, 인터페이스, 구조체, DDL, JSX](https://github.com/Ubinquitous/Journal/blob/master/22-07-21.md)
 
+### August, 2022
+
 [8월 21일 활성화](https://github.com/Ubinquitous/Journal/blob/master/22-08-21.md)
