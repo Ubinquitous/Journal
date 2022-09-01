@@ -112,4 +112,7 @@
 
 [8월 21일 활성화](https://github.com/Ubinquitous/Journal/blob/master/22-08-21.md)
 [8월 31일 다시 활성화](https://github.com/Ubinquitous/Journal/blob/master/22-08-31.md)
+
+### September, 2022
+
 [9월 1일 전공동아리 - 사진 오류](https://github.com/Ubinquitous/Journal/blob/master/22-09-01.md)
