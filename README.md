@@ -116,3 +116,5 @@
 ### September, 2022
 
 [9월 1일 전공동아리 - 사진 오류](https://github.com/Ubinquitous/Journal/blob/master/22-09-01.md)
+
+[9월 4일 SQLD 46회 시험](https://github.com/Ubinquitous/Journal/blob/master/22-09-04.md)
