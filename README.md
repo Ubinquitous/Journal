@@ -119,5 +119,6 @@
 
 [9월 4일 SQLD 46회 시험](https://github.com/Ubinquitous/Journal/blob/master/22-09-04.md)
 
-
 [9월 7일 온라인 수업](https://github.com/Ubinquitous/Journal/blob/master/22-09-07.md)
+
+[9월 8일 새로운 언어](https://github.com/Ubinquitous/Journal/blob/master/22-09-08.md)
