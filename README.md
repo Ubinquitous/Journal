@@ -124,3 +124,5 @@
 [9월 8일 새로운 언어](https://github.com/Ubinquitous/Journal/blob/master/22-09-08.md)
 
 [9월 12일 리액트 네이티브](https://github.com/Ubinquitous/Journal/blob/master/22-09-12.md)
+
+[9월 16일 전공동아리 프로젝트 - 초기화](https://github.com/Ubinquitous/Journal/blob/master/22-09-16.md)
