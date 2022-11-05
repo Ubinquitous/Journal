@@ -111,6 +111,7 @@
 ### August, 2022
 
 [8월 21일 활성화](https://github.com/Ubinquitous/Journal/blob/master/22-08-21.md)
+
 [8월 31일 다시 활성화](https://github.com/Ubinquitous/Journal/blob/master/22-08-31.md)
 
 ### September, 2022
