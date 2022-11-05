@@ -129,3 +129,9 @@
 [9월 16일 전공동아리 프로젝트 - 초기화](https://github.com/Ubinquitous/Journal/blob/master/22-09-16.md)
 
 [9월 25일 리액트 webpack 설정](https://github.com/Ubinquitous/Journal/blob/master/22-09-25.md)
+
+### October, 2022
+
+### November, 2022
+
+[11월 5일 전공동아리 - 사진 오류](https://github.com/Ubinquitous/Journal/blob/master/22-11-05.md)
