@@ -134,4 +134,6 @@
 
 ### November, 2022
 
-[11월 5일 전공동아리 - 사진 오류](https://github.com/Ubinquitous/Journal/blob/master/22-11-05.md)
+[11월 5일 방향성 잡기](https://github.com/Ubinquitous/Journal/blob/master/22-11-05.md)
+
+[11월 9일 목표 세우기](https://github.com/Ubinquitous/Journal/blob/master/22-11-05.md)
