@@ -137,3 +137,8 @@
 [11월 5일 방향성 잡기](https://github.com/Ubinquitous/Journal/blob/master/22-11-05.md)
 
 [11월 9일 목표 세우기](https://github.com/Ubinquitous/Journal/blob/master/22-11-05.md)
+
+### December, 2022
+
+[12월 8일 부산 잡페어](https://github.com/Ubinquitous/Journal/blob/master/22-12-08.md)
+[12월 10일 마지막 시험](https://github.com/Ubinquitous/Journal/blob/master/22-12-10.md)
