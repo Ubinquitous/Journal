@@ -145,3 +145,5 @@
 [12월 10일 마지막 시험](https://github.com/Ubinquitous/Journal/blob/master/22-12-10.md)  
 
 [12월 11일 리액트 졸업 예정](https://github.com/Ubinquitous/Journal/blob/master/22-12-11.md)
+
+[12월 13일 웹사이트 구상](https://github.com/Ubinquitous/Journal/blob/master/22-12-13.md)
