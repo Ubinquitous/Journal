@@ -149,3 +149,5 @@
 [12월 13일 웹사이트 구상](https://github.com/Ubinquitous/Journal/blob/master/22-12-13.md)
 
 [12월 14일 환경보호 아이디어 제안서 구상](https://github.com/Ubinquitous/Journal/blob/master/22-12-14.md)
+
+[12월 15일 인터랙티브 로딩 컴포넌트 완성](https://github.com/Ubinquitous/Journal/blob/master/22-12-15.md)
