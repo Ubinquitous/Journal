@@ -152,4 +152,6 @@
 
 [12월 15일 인터랙티브 로딩 컴포넌트 완성](https://github.com/Ubinquitous/Journal/blob/master/22-12-15.md)
 
-[12월 17일 과학 시험 공부](https://github.com/Ubinquitous/Journal/blob/master/22-12-17.md)
+[12월 17일 과학 시험 공부](https://github.com/Ubinquitous/Journal/blob/master/22-12-17.md)  
+
+[12월 18일 깃 폴더 탐색](https://github.com/Ubinquitous/Journal/blob/master/22-12-17.md)
