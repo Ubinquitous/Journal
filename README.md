@@ -154,4 +154,6 @@
 
 [12월 17일 과학 시험 공부](https://github.com/Ubinquitous/Journal/blob/master/22-12-17.md)  
 
-[12월 18일 깃 폴더 탐색](https://github.com/Ubinquitous/Journal/blob/master/22-12-17.md)
+[12월 18일 깃 폴더 탐색](https://github.com/Ubinquitous/Journal/blob/master/22-12-18.md)  
+
+[12월 20일 악조건 속 시험준비](https://github.com/Ubinquitous/Journal/blob/master/22-12-20.md)
