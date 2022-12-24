@@ -158,4 +158,6 @@
 
 [12월 20일 악조건 속 시험준비](https://github.com/Ubinquitous/Journal/blob/master/22-12-20.md)  
 
-[12월 23일 시험 끝](https://github.com/Ubinquitous/Journal/blob/master/22-12-23.md)
+[12월 23일 시험 끝](https://github.com/Ubinquitous/Journal/blob/master/22-12-23.md)  
+
+[12월 24일 Matter.js로 물리엔진 구현하기](https://github.com/Ubinquitous/Journal/blob/master/22-12-24.md)
