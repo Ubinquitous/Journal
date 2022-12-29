@@ -160,4 +160,6 @@
 
 [12월 23일 시험 끝](https://github.com/Ubinquitous/Journal/blob/master/22-12-23.md)  
 
-[12월 24일 Matter.js로 물리엔진 구현하기](https://github.com/Ubinquitous/Journal/blob/master/22-12-24.md)
+[12월 24일 Matter.js로 물리엔진 구현하기](https://github.com/Ubinquitous/Journal/blob/master/22-12-24.md)  
+
+[12월 29일 직업계고 창업캠프](https://github.com/Ubinquitous/Journal/blob/master/22-12-29.md)
