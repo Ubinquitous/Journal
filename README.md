@@ -166,4 +166,6 @@
 
 ### January, 2023
 
-[1월 1일 2022년을 돌아보며](https://github.com/Ubinquitous/Journal/blob/master/23-01-01.md)
+[1월 1일 2022년을 돌아보며](https://github.com/Ubinquitous/Journal/blob/master/23-01-01.md)  
+
+[1월 4일 앱 개발의 시작](https://github.com/Ubinquitous/Journal/blob/master/23-01-04.md)
