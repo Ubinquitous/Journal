@@ -171,3 +171,5 @@
 [1월 4일 앱 개발의 시작](https://github.com/Ubinquitous/Journal/blob/master/23-01-04.md)  
 
 [1월 6일 다트 강의 완강](https://github.com/Ubinquitous/Journal/blob/master/23-01-06.md)
+
+[1월 8일 부마위키 베타 완성](https://github.com/Ubinquitous/Journal/blob/master/23-01-08.md)
