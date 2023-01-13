@@ -1,7 +1,9 @@
 # My Journal!
+
 ## Journal for portfolio. Don't have too private content.
 
 ### May, 2022
+
 [5월 18일 포인터 수업 (첫 일기)](https://github.com/Ubinquitous/Journal/blob/master/22-05-18.md)
 
 [5월 19일 영어 회화 수업](https://github.com/Ubinquitous/Journal/blob/master/22-05-19.md)
@@ -142,7 +144,7 @@
 
 [12월 8일 부산 잡페어](https://github.com/Ubinquitous/Journal/blob/master/22-12-08.md)
 
-[12월 10일 마지막 시험](https://github.com/Ubinquitous/Journal/blob/master/22-12-10.md)  
+[12월 10일 마지막 시험](https://github.com/Ubinquitous/Journal/blob/master/22-12-10.md)
 
 [12월 11일 리액트 졸업 예정](https://github.com/Ubinquitous/Journal/blob/master/22-12-11.md)
 
@@ -152,24 +154,26 @@
 
 [12월 15일 인터랙티브 로딩 컴포넌트 완성](https://github.com/Ubinquitous/Journal/blob/master/22-12-15.md)
 
-[12월 17일 과학 시험 공부](https://github.com/Ubinquitous/Journal/blob/master/22-12-17.md)  
+[12월 17일 과학 시험 공부](https://github.com/Ubinquitous/Journal/blob/master/22-12-17.md)
 
-[12월 18일 깃 폴더 탐색](https://github.com/Ubinquitous/Journal/blob/master/22-12-18.md)  
+[12월 18일 깃 폴더 탐색](https://github.com/Ubinquitous/Journal/blob/master/22-12-18.md)
 
-[12월 20일 악조건 속 시험준비](https://github.com/Ubinquitous/Journal/blob/master/22-12-20.md)  
+[12월 20일 악조건 속 시험준비](https://github.com/Ubinquitous/Journal/blob/master/22-12-20.md)
 
-[12월 23일 시험 끝](https://github.com/Ubinquitous/Journal/blob/master/22-12-23.md)  
+[12월 23일 시험 끝](https://github.com/Ubinquitous/Journal/blob/master/22-12-23.md)
 
-[12월 24일 Matter.js로 물리엔진 구현하기](https://github.com/Ubinquitous/Journal/blob/master/22-12-24.md)  
+[12월 24일 Matter.js로 물리엔진 구현하기](https://github.com/Ubinquitous/Journal/blob/master/22-12-24.md)
 
 [12월 29일 직업계고 창업캠프](https://github.com/Ubinquitous/Journal/blob/master/22-12-29.md)
 
 ### January, 2023
 
-[1월 1일 2022년을 돌아보며](https://github.com/Ubinquitous/Journal/blob/master/23-01-01.md)  
+[1월 1일 2022년을 돌아보며](https://github.com/Ubinquitous/Journal/blob/master/23-01-01.md)
 
-[1월 4일 앱 개발의 시작](https://github.com/Ubinquitous/Journal/blob/master/23-01-04.md)  
+[1월 4일 앱 개발의 시작](https://github.com/Ubinquitous/Journal/blob/master/23-01-04.md)
 
 [1월 6일 다트 강의 완강](https://github.com/Ubinquitous/Journal/blob/master/23-01-06.md)
 
 [1월 8일 부마위키 베타 완성](https://github.com/Ubinquitous/Journal/blob/master/23-01-08.md)
+
+[1월 13일 해커톤 끝 방학 시작, 앱 개발의 고찰](https://github.com/Ubinquitous/Journal/blob/master/23-01-03.md)
