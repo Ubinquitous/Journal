@@ -177,3 +177,5 @@
 [1월 8일 부마위키 베타 완성](https://github.com/Ubinquitous/Journal/blob/master/23-01-08.md)
 
 [1월 13일 해커톤 끝 방학 시작, 앱 개발의 고찰](https://github.com/Ubinquitous/Journal/blob/master/23-01-03.md)
+
+[1월 14일 플러터의 강점](https://github.com/Ubinquitous/Journal/blob/master/23-01-14.md)
