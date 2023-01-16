@@ -179,3 +179,5 @@
 [1월 13일 해커톤 끝 방학 시작, 앱 개발의 고찰](https://github.com/Ubinquitous/Journal/blob/master/23-01-03.md)
 
 [1월 14일 플러터의 강점](https://github.com/Ubinquitous/Journal/blob/master/23-01-14.md)
+
+[1월 16일 프론트엔드 날개달기](https://github.com/Ubinquitous/Journal/blob/master/23-01-16.md)
