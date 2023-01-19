@@ -181,3 +181,5 @@
 [1월 14일 플러터의 강점](https://github.com/Ubinquitous/Journal/blob/master/23-01-14.md)
 
 [1월 16일 프론트엔드 날개달기](https://github.com/Ubinquitous/Journal/blob/master/23-01-16.md)
+
+[1월 19일 리덕스 공부](https://github.com/Ubinquitous/Journal/blob/master/23-01-19.md)
