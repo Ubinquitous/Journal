@@ -183,3 +183,5 @@
 [1월 16일 프론트엔드 날개달기](https://github.com/Ubinquitous/Journal/blob/master/23-01-16.md)
 
 [1월 19일 리덕스 공부](https://github.com/Ubinquitous/Journal/blob/master/23-01-19.md)
+
+[1월 20일 부마위키 코드 리팩토링](https://github.com/Ubinquitous/Journal/blob/master/23-01-20.md)
