@@ -187,3 +187,5 @@
 [1월 20일 부마위키 코드 리팩토링](https://github.com/Ubinquitous/Journal/blob/master/23-01-20.md)
 
 [1월 21일 리덕스 너무 어려워](https://github.com/Ubinquitous/Journal/blob/master/23-01-21.md)
+
+[1월 23일 리코일 훑어보기](https://github.com/Ubinquitous/Journal/blob/master/23-01-23.md)
