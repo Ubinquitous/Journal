@@ -191,3 +191,5 @@
 [1월 23일 리코일 훑어보기](https://github.com/Ubinquitous/Journal/blob/master/23-01-23.md)
 
 [1월 24일 리액트 쿼리 공부](https://github.com/Ubinquitous/Journal/blob/master/23-01-24.md)
+
+[1월 26일 웹팩으로 리액트 실행하기](https://github.com/Ubinquitous/Journal/blob/master/23-01-26.md)
