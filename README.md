@@ -193,3 +193,5 @@
 [1월 24일 리액트 쿼리 공부](https://github.com/Ubinquitous/Journal/blob/master/23-01-24.md)
 
 [1월 26일 웹팩으로 리액트 실행하기](https://github.com/Ubinquitous/Journal/blob/master/23-01-26.md)
+
+[1월 30일 잠깐의 휴식](https://github.com/Ubinquitous/Journal/blob/master/23-01-30.md)
