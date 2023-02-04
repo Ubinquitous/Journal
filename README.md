@@ -197,3 +197,5 @@
 [1월 30일 잠깐의 휴식](https://github.com/Ubinquitous/Journal/blob/master/23-01-30.md)
 
 [2월 1일 TCP/IP 공부](https://github.com/Ubinquitous/Journal/blob/master/23-02-01.md)
+
+[2월 4일 개인 프로젝트](https://github.com/Ubinquitous/Journal/blob/master/23-02-04.md)
