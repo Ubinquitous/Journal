@@ -199,3 +199,5 @@
 [2월 1일 TCP/IP 공부](https://github.com/Ubinquitous/Journal/blob/master/23-02-01.md)
 
 [2월 4일 개인 프로젝트](https://github.com/Ubinquitous/Journal/blob/master/23-02-04.md)
+
+[2월 12일 공부 근황](https://github.com/Ubinquitous/Journal/blob/master/23-02-12.md)
