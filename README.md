@@ -205,3 +205,5 @@
 [2월 13일 SOLID 원칙](https://github.com/Ubinquitous/Journal/blob/master/23-02-13.md)
 
 [2월 19일 개학 준비](https://github.com/Ubinquitous/Journal/blob/master/23-02-19.md)
+
+[2월 20일 부마위키 코드 리팩토링, 라이브러리 개발](https://github.com/Ubinquitous/Journal/blob/master/23-02-20.md)
