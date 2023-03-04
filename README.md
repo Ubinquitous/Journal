@@ -196,6 +196,8 @@
 
 [1월 30일 잠깐의 휴식](https://github.com/Ubinquitous/Journal/blob/master/23-01-30.md)
 
+### February, 2023
+
 [2월 1일 TCP/IP 공부](https://github.com/Ubinquitous/Journal/blob/master/23-02-01.md)
 
 [2월 4일 개인 프로젝트](https://github.com/Ubinquitous/Journal/blob/master/23-02-04.md)
@@ -209,3 +211,7 @@
 [2월 20일 부마위키 코드 리팩토링, 라이브러리 개발](https://github.com/Ubinquitous/Journal/blob/master/23-02-20.md)
 
 [2월 25일 공인중개사 프로젝트](https://github.com/Ubinquitous/Journal/blob/master/23-02-25.md)
+
+### March, 2023
+
+[3월 4일 부마위키 로딩 오류](https://github.com/Ubinquitous/Journal/blob/master/23-03-04.md)
