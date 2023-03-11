@@ -219,3 +219,5 @@
 [3월 6일 원인 발견](https://github.com/Ubinquitous/Journal/blob/master/23-03-06.md)
 
 [3월 7일 스프링 입문](https://github.com/Ubinquitous/Journal/blob/master/23-03-07.md)
+
+[3월 11일 새학기 적응](https://github.com/Ubinquitous/Journal/blob/master/23-03-11.md)
