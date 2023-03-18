@@ -225,3 +225,5 @@
 [3월 12일 개발 슬럼프](https://github.com/Ubinquitous/Journal/blob/master/23-03-12.md)
 
 [3월 16일 부마위키 예외처리](https://github.com/Ubinquitous/Journal/blob/master/23-03-16.md)
+
+[3월 18일 조언](https://github.com/Ubinquitous/Journal/blob/master/23-03-16.md)
