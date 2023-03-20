@@ -226,4 +226,6 @@
 
 [3월 16일 부마위키 예외처리](https://github.com/Ubinquitous/Journal/blob/master/23-03-16.md)
 
-[3월 18일 조언](https://github.com/Ubinquitous/Journal/blob/master/23-03-16.md)
+[3월 18일 조언](https://github.com/Ubinquitous/Journal/blob/master/23-03-18.md)
+
+[3월 20일 부마위키 마이그레이션](https://github.com/Ubinquitous/Journal/blob/master/23-03-20.md)
