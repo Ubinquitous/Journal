@@ -237,3 +237,5 @@
 [4월 5일 HttpClient](https://github.com/Ubinquitous/Journal/blob/master/23-04-05.md)
 
 [4월 7일 코드병합](https://github.com/Ubinquitous/Journal/blob/master/23-04-05.md)
+
+[4월 11일 부마위키 코드 문제 발견](https://github.com/Ubinquitous/Journal/blob/master/23-04-11.md)
