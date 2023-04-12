@@ -239,3 +239,5 @@
 [4월 7일 코드병합](https://github.com/Ubinquitous/Journal/blob/master/23-04-05.md)
 
 [4월 11일 부마위키 코드 문제 발견](https://github.com/Ubinquitous/Journal/blob/master/23-04-11.md)
+
+[4월 12일 리팩토링 회고록](https://github.com/Ubinquitous/Journal/blob/master/23-04-12.md)
