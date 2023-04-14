@@ -243,3 +243,5 @@
 [4월 12일 리팩토링 회고록](https://github.com/Ubinquitous/Journal/blob/master/23-04-12.md)
 
 [4월 13일 브레이크 타임](https://github.com/Ubinquitous/Journal/blob/master/23-04-13.md)
+
+[4월 14일 부마위키 버전 비교 시스템](https://github.com/Ubinquitous/Journal/blob/master/23-04-14.md)
