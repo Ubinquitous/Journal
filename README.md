@@ -247,3 +247,5 @@
 [4월 14일 부마위키 버전 비교 시스템](https://github.com/Ubinquitous/Journal/blob/master/23-04-14.md)
 
 [4월 15일 계획다짐](https://github.com/Ubinquitous/Journal/blob/master/23-04-15.md)
+
+[4월 22일 시험공부](https://github.com/Ubinquitous/Journal/blob/master/23-04-22.md)
