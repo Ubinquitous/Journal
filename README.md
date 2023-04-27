@@ -249,3 +249,5 @@
 [4월 15일 계획다짐](https://github.com/Ubinquitous/Journal/blob/master/23-04-15.md)
 
 [4월 22일 시험공부](https://github.com/Ubinquitous/Journal/blob/master/23-04-22.md)
+
+[4월 27일 당근마켓 코드 염탐](https://github.com/Ubinquitous/Journal/blob/master/23-04-27.md)
