@@ -252,4 +252,6 @@
 
 [4월 27일 당근마켓 코드 염탐](https://github.com/Ubinquitous/Journal/blob/master/23-04-27.md)
 
-[4월 28일 시험끝!!](https://github.com/Ubinquitous/Journal/blob/master/23-04-28.md)
+[4월 28일 시험끝!!](https://github.com/Ubinquitous/Journal/blob/master/23-04-28.md)  
+
+[4월 29일 잔디 공중분해](https://github.com/Ubinquitous/Journal/blob/master/23-04-29.md)
