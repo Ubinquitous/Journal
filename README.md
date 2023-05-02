@@ -261,3 +261,5 @@
 ### May, 2023
 
 [5월 1일 체육대회 주간...](https://github.com/Ubinquitous/Journal/blob/master/23-05-01.md)
+
+[5월 2일 꾸준한 삶 살기, 테크블로그](https://github.com/Ubinquitous/Journal/blob/master/23-05-02.md)
