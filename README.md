@@ -265,3 +265,5 @@
 [5월 2일 꾸준한 삶 살기, 테크블로그](https://github.com/Ubinquitous/Journal/blob/master/23-05-02.md)
 
 [5월 5일 부마위키 개발 끝](https://github.com/Ubinquitous/Journal/blob/master/23-05-02.md)
+
+[5월 10일 정보처리산업기사 시험](https://github.com/Ubinquitous/Journal/blob/master/23-05-10.md)
