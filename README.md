@@ -267,3 +267,5 @@
 [5월 5일 부마위키 개발 끝](https://github.com/Ubinquitous/Journal/blob/master/23-05-02.md)
 
 [5월 10일 정보처리산업기사 시험](https://github.com/Ubinquitous/Journal/blob/master/23-05-10.md)
+
+[5월 11일 알고리즘 테스트](https://github.com/Ubinquitous/Journal/blob/master/23-05-10.md)
