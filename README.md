@@ -271,3 +271,5 @@
 [5월 11일 알고리즘 테스트](https://github.com/Ubinquitous/Journal/blob/master/23-05-10.md)
 
 [5월 12일 테크블로그 작성](https://github.com/Ubinquitous/Journal/blob/master/23-05-12.md)
+
+[5월 13일 회의](https://github.com/Ubinquitous/Journal/blob/master/23-05-13.md)
