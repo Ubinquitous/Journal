@@ -273,3 +273,5 @@
 [5월 12일 테크블로그 작성](https://github.com/Ubinquitous/Journal/blob/master/23-05-12.md)
 
 [5월 13일 회의](https://github.com/Ubinquitous/Journal/blob/master/23-05-13.md)
+
+[5월 14일 BSM 디자인](https://github.com/Ubinquitous/Journal/blob/master/23-05-14.md)
