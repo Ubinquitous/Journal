@@ -268,10 +268,12 @@
 
 [5월 10일 정보처리산업기사 시험](https://github.com/Ubinquitous/Journal/blob/master/23-05-10.md)
 
-[5월 11일 알고리즘 테스트](https://github.com/Ubinquitous/Journal/blob/master/23-05-10.md)
+[5월 11일 알고리즘 테스트](https://github.com/Ubinquitous/Journal/blob/master/23-05-11.md)
 
 [5월 12일 테크블로그 작성](https://github.com/Ubinquitous/Journal/blob/master/23-05-12.md)
 
 [5월 13일 회의](https://github.com/Ubinquitous/Journal/blob/master/23-05-13.md)
 
 [5월 14일 BSM 디자인](https://github.com/Ubinquitous/Journal/blob/master/23-05-14.md)
+
+[5월 15일 정보처리산업기사 문제 출제](https://github.com/Ubinquitous/Journal/blob/master/23-05-15.md)
