@@ -279,3 +279,5 @@
 [5월 15일 정보처리산업기사 문제 출제](https://github.com/Ubinquitous/Journal/blob/master/23-05-15.md)
 
 [5월 16일 뜻밖의 동기부여](https://github.com/Ubinquitous/Journal/blob/master/23-05-16.md)
+
+[5월 17일 산업체 탐방](https://github.com/Ubinquitous/Journal/blob/master/23-05-17.md)
