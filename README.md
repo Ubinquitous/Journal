@@ -281,3 +281,5 @@
 [5월 16일 뜻밖의 동기부여](https://github.com/Ubinquitous/Journal/blob/master/23-05-16.md)
 
 [5월 17일 산업체 탐방](https://github.com/Ubinquitous/Journal/blob/master/23-05-17.md)
+
+[5월 18일 일기 1주년, 알고리즘 문제 해결](https://github.com/Ubinquitous/Journal/blob/master/23-05-18.md)
