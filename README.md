@@ -285,3 +285,5 @@
 [5월 18일 일기 1주년, 알고리즘 문제 해결](https://github.com/Ubinquitous/Journal/blob/master/23-05-18.md)
 
 [5월 19일 백엔드 sdk](https://github.com/Ubinquitous/Journal/blob/master/23-05-19.md)
+
+[5월 20일 첫 테크블로그](https://github.com/Ubinquitous/Journal/blob/master/23-05-20.md)
