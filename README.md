@@ -293,3 +293,5 @@
 [5월 22일 장기간 번아웃, 상담](https://github.com/Ubinquitous/Journal/blob/master/23-05-22.md)
 
 [5월 23일 백엔드 스터디](https://github.com/Ubinquitous/Journal/blob/master/23-05-23.md)
+
+[5월 24일 리덕스 공부 (프론트 스터디)](https://github.com/Ubinquitous/Journal/blob/master/23-05-24.md)
