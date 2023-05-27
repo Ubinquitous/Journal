@@ -299,3 +299,5 @@
 [5월 25일 리덕스 미들웨어 (프론트 스터디)](https://github.com/Ubinquitous/Journal/blob/master/23-05-25.md)
 
 [5월 26일 여러가지 일처리](https://github.com/Ubinquitous/Journal/blob/master/23-05-26.md)
+
+[5월 27일 부마위키 이슈 해결](https://github.com/Ubinquitous/Journal/blob/master/23-05-27.md)
