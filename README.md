@@ -301,3 +301,5 @@
 [5월 26일 여러가지 일처리](https://github.com/Ubinquitous/Journal/blob/master/23-05-26.md)
 
 [5월 27일 부마위키 이슈 해결](https://github.com/Ubinquitous/Journal/blob/master/23-05-27.md)
+
+[5월 28일 renovate, semantic release bot 설정](https://github.com/Ubinquitous/Journal/blob/master/23-05-28.md)
