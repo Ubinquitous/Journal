@@ -309,3 +309,7 @@
 [5월 30일 디렉터리 아키텍처 설계](https://github.com/Ubinquitous/Journal/blob/master/23-05-30.md)
 
 [5월 31일 디자인 시스템 구축](https://github.com/Ubinquitous/Journal/blob/master/23-05-31.md)
+
+### June, 2023
+
+[6월 1일 시험 공부 고찰](https://github.com/Ubinquitous/Journal/blob/master/23-06-01.md)
