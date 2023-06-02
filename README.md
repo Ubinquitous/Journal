@@ -313,3 +313,5 @@
 ### June, 2023
 
 [6월 1일 시험 공부 고찰](https://github.com/Ubinquitous/Journal/blob/master/23-06-01.md)
+
+[6월 2일 SSR과 SSG에 대한 블로그 작성하기](https://github.com/Ubinquitous/Journal/blob/master/23-06-02.md)
