@@ -316,4 +316,6 @@
 
 [6월 2일 SSR과 SSG에 대한 블로그 작성하기](https://github.com/Ubinquitous/Journal/blob/master/23-06-02.md)
 
-[6월 2일 CSS로 별점 표시하기](https://github.com/Ubinquitous/Journal/blob/master/23-06-03.md)
+[6월 3일 CSS로 별점 표시하기](https://github.com/Ubinquitous/Journal/blob/master/23-06-03.md)
+
+[6월 4일 히키코모리 체험](https://github.com/Ubinquitous/Journal/blob/master/23-06-04.md)
