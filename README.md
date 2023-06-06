@@ -321,3 +321,5 @@
 [6월 4일 히키코모리 체험](https://github.com/Ubinquitous/Journal/blob/master/23-06-04.md)
 
 [6월 5일 소마고 FE 스터디 결성](https://github.com/Ubinquitous/Journal/blob/master/23-06-05.md)
+
+[6월 6일 부산소마고 회고](https://github.com/Ubinquitous/Journal/blob/master/23-06-06.md)
