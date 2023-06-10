@@ -327,3 +327,5 @@
 [6월 7일 ChatGPT가 끼치는 영향](https://github.com/Ubinquitous/Journal/blob/master/23-06-07.md)
 
 [6월 8일 부마위키 확장 회의](https://github.com/Ubinquitous/Journal/blob/master/23-06-08.md)
+
+[6월 10일 시험 공부](https://github.com/Ubinquitous/Journal/blob/master/23-06-10.md)
