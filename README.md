@@ -331,3 +331,5 @@
 [6월 10일 시험 공부](https://github.com/Ubinquitous/Journal/blob/master/23-06-10.md)
 
 [6월 12일 시험 공부 - C++](https://github.com/Ubinquitous/Journal/blob/master/23-06-12.md)
+
+[6월 13일 BSM 분실물 찾기 게시판](https://github.com/Ubinquitous/Journal/blob/master/23-06-13.md)
