@@ -335,3 +335,5 @@
 [6월 13일 BSM 분실물 찾기 게시판](https://github.com/Ubinquitous/Journal/blob/master/23-06-13.md)
 
 [6월 14일 익명 랜덤 채팅 서비스 임시 배포](https://github.com/Ubinquitous/Journal/blob/master/23-06-14.md)
+
+[6월 14일 전공동아리 중간발표회](https://github.com/Ubinquitous/Journal/blob/master/23-06-15.md)
