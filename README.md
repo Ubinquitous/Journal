@@ -176,7 +176,7 @@
 
 [1월 8일 부마위키 베타 완성](https://github.com/Ubinquitous/Journal/blob/master/23-01-08.md)
 
-[1월 13일 해커톤 끝 방학 시작, 앱 개발의 고찰](https://github.com/Ubinquitous/Journal/blob/master/23-01-03.md)
+[1월 13일 해커톤 끝 방학 시작, 앱 개발의 고찰](https://github.com/Ubinquitous/Journal/blob/master/23-01-13.md)
 
 [1월 14일 플러터의 강점](https://github.com/Ubinquitous/Journal/blob/master/23-01-14.md)
 
@@ -336,4 +336,6 @@
 
 [6월 14일 익명 랜덤 채팅 서비스 임시 배포](https://github.com/Ubinquitous/Journal/blob/master/23-06-14.md)
 
-[6월 14일 전공동아리 중간발표회](https://github.com/Ubinquitous/Journal/blob/master/23-06-15.md)
+[6월 15일 전공동아리 중간발표회](https://github.com/Ubinquitous/Journal/blob/master/23-06-15.md)
+
+[6월 16일 소나클라우드](https://github.com/Ubinquitous/Journal/blob/master/23-06-16.md)
