@@ -339,3 +339,5 @@
 [6월 15일 전공동아리 중간발표회](https://github.com/Ubinquitous/Journal/blob/master/23-06-15.md)
 
 [6월 16일 소나클라우드](https://github.com/Ubinquitous/Journal/blob/master/23-06-16.md)
+
+[6월 18일 아무것도 안했음](https://github.com/Ubinquitous/Journal/blob/master/23-06-18.md)
