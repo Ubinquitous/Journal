@@ -341,3 +341,5 @@
 [6월 16일 소나클라우드](https://github.com/Ubinquitous/Journal/blob/master/23-06-16.md)
 
 [6월 18일 아무것도 안했음](https://github.com/Ubinquitous/Journal/blob/master/23-06-18.md)
+
+[6월 21일 수학 공부, 시험 당일](https://github.com/Ubinquitous/Journal/blob/master/23-06-21.md)
