@@ -343,3 +343,5 @@
 [6월 18일 아무것도 안했음](https://github.com/Ubinquitous/Journal/blob/master/23-06-18.md)
 
 [6월 21일 수학 공부, 시험 당일](https://github.com/Ubinquitous/Journal/blob/master/23-06-21.md)
+
+[6월 22일 시험 둘째날](https://github.com/Ubinquitous/Journal/blob/master/23-06-22.md)
