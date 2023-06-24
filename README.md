@@ -345,3 +345,5 @@
 [6월 21일 수학 공부, 시험 당일](https://github.com/Ubinquitous/Journal/blob/master/23-06-21.md)
 
 [6월 22일 시험 둘째날](https://github.com/Ubinquitous/Journal/blob/master/23-06-22.md)
+
+[6월 24일 시험 끝!](https://github.com/Ubinquitous/Journal/blob/master/23-06-24.md)
