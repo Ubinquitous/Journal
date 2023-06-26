@@ -349,3 +349,5 @@
 [6월 24일 시험 끝!](https://github.com/Ubinquitous/Journal/blob/master/23-06-24.md)
 
 [6월 25일 맥북어디갔냐고 내맥북](https://github.com/Ubinquitous/Journal/blob/master/23-06-25.md)
+
+[6월 26일 공인중개사 프로젝트 재시작](https://github.com/Ubinquitous/Journal/blob/master/23-06-26.md)
