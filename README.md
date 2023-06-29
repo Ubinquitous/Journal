@@ -355,3 +355,5 @@
 [6월 27일 개발 이슈 및 회의](https://github.com/Ubinquitous/Journal/blob/master/23-06-27.md)
 
 [6월 28일 코드 컨벤션, 시멘틱 태그](https://github.com/Ubinquitous/Journal/blob/master/23-06-28.md)
+
+[6월 29일 대학 진학 고민](https://github.com/Ubinquitous/Journal/blob/master/23-06-29.md)
