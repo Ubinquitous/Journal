@@ -357,3 +357,7 @@
 [6월 28일 코드 컨벤션, 시멘틱 태그](https://github.com/Ubinquitous/Journal/blob/master/23-06-28.md)
 
 [6월 29일 대학 진학 고민](https://github.com/Ubinquitous/Journal/blob/master/23-06-29.md)
+
+### July, 2023
+
+[7월 1일 constant 사용](https://github.com/Ubinquitous/Journal/blob/master/23-07-01.md)
