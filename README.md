@@ -363,3 +363,5 @@
 [7월 1일 constant 사용](https://github.com/Ubinquitous/Journal/blob/master/23-07-01.md)
 
 [7월 2일 리코일 사용](https://github.com/Ubinquitous/Journal/blob/master/23-07-02.md)
+
+[7월 3일 리액트 네이티브 강의](https://github.com/Ubinquitous/Journal/blob/master/23-07-03.md)
