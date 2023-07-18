@@ -365,3 +365,5 @@
 [7월 2일 리코일 사용](https://github.com/Ubinquitous/Journal/blob/master/23-07-02.md)
 
 [7월 3일 리액트 네이티브 강의](https://github.com/Ubinquitous/Journal/blob/master/23-07-03.md)
+
+[7월 18일 방학, 규칙적인 생활](https://github.com/Ubinquitous/Journal/blob/master/23-07-18.md)
