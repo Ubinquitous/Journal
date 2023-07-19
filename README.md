@@ -367,3 +367,5 @@
 [7월 3일 리액트 네이티브 강의](https://github.com/Ubinquitous/Journal/blob/master/23-07-03.md)
 
 [7월 18일 방학, 규칙적인 생활](https://github.com/Ubinquitous/Journal/blob/master/23-07-18.md)
+
+[7월 19일 BSM 시간표 퍼블리싱](https://github.com/Ubinquitous/Journal/blob/master/23-07-19.md)
