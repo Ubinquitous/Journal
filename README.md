@@ -369,3 +369,5 @@
 [7월 18일 방학, 규칙적인 생활](https://github.com/Ubinquitous/Journal/blob/master/23-07-18.md)
 
 [7월 19일 BSM 시간표 퍼블리싱](https://github.com/Ubinquitous/Journal/blob/master/23-07-19.md)
+
+[7월 21일 단기간 힐링 시도](https://github.com/Ubinquitous/Journal/blob/master/23-07-21ㅌ.md)
