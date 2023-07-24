@@ -370,4 +370,8 @@
 
 [7월 19일 BSM 시간표 퍼블리싱](https://github.com/Ubinquitous/Journal/blob/master/23-07-19.md)
 
-[7월 21일 단기간 힐링 시도](https://github.com/Ubinquitous/Journal/blob/master/23-07-21ㅌ.md)
+[7월 21일 단기간 힐링 시도](https://github.com/Ubinquitous/Journal/blob/master/23-07-21.md)
+
+[7월 23일 내일부터 코딩한다(제곧내)](https://github.com/Ubinquitous/Journal/blob/master/23-07-23.md)
+
+[7월 24일 부마위키 코드 리팩토링 필요](https://github.com/Ubinquitous/Journal/blob/master/23-07-24.md)
