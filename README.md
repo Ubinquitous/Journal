@@ -377,3 +377,9 @@
 [7월 24일 부마위키 코드 리팩토링 필요](https://github.com/Ubinquitous/Journal/blob/master/23-07-24.md)
 
 [7월 28일 BSM 클린 코드 작성](https://github.com/Ubinquitous/Journal/blob/master/23-07-28.md)
+
+### August, 2023
+
+[8월 8일 부마위키 회고록](https://github.com/Ubinquitous/Journal/blob/master/23-08-08.md)
+
+[8월 18일 BSM d3 사용하기](https://github.com/Ubinquitous/Journal/blob/master/23-08-18.md)
